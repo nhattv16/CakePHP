@@ -2,4 +2,3 @@
 class Post extends AppModel {
 
 }
-?>
